@@ -4,8 +4,8 @@
 " Remove sequential white space between words.
 
 " Maintainer: Michael O'Neill <irish.dot@gmail.com>
-" Version:    2011.11.03
-" GetLatestVimScripts:
+" Version:    2012.02.02
+" GetLatestVimScripts: 3920 1 :AutoInstall: WhiteWash.vim
 
 function! s:WhiteWash()
 	" Save cursor position
